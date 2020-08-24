@@ -25,7 +25,7 @@ display: block;
 }
 .wrapper {
 	display:flex;
-	position:fixed;
+	position:relative;
 }
 .wrapper .sidebar{
 	background: #4b4276;
